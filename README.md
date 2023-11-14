@@ -1,12 +1,8 @@
 ### Code Refactoring Challenge
 
-**Initial Code:**
-```javascript
-
-```
 
 **Challenge:**
-Refactor the given code to use lexical scoping instead of relying on global variables. Ensure that the functions are self-contained and do not depend on variables outside of their lexical scope. The goal is to encapsulate variables within the appropriate scope and reduce reliance on global state.
+Refactor the given code (init_code.js) to use lexical scoping instead of relying on global variables. Ensure that the functions are self-contained and do not depend on variables outside of their lexical scope. The goal is to encapsulate variables within the appropriate scope and reduce reliance on global state.
 
 
 ## Lexical Scoping in JS
